@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Icon - Benefits</title>
+
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      .parentDiv {
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+      }
+
+      .wrapper {
+        width: 100%;
+        max-width: 400px;
+      }
+
+      #hexa {
+        stroke-dasharray: 242.70816040039062;
+        stroke-dashoffset: 242.70816040039062;
+        fill: transparent;
+        animation: hexaIn 4s ease-in-out infinite;
+      }
+
+      @keyframes hexaIn {
+        0% {
+          stroke-dashoffset: 242.70816040039062;
+        }
+
+        25% {
+          stroke-dashoffset: 0;
+          fill: #fffcfc;
+        }
+
+        25%,
+        100% {
+          stroke-dashoffset: 0;
+          fill: #fffcfc;
+        }
+      }
+
+      #center_1 {
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: scale(0);
+        opacity: 0;
+        animation: centerIn1 4s ease-in-out infinite;
+      }
+
+      @keyframes centerIn1 {
+        0%,
+        25% {
+          transform: scale(0.5);
+          opacity: 0;
+        }
+        50% {
+          transform: scale(1);
+          opacity: 1;
+        }
+
+        50%,
+        100% {
+          transform: scale(1);
+          opacity: 1;
+        }
+      }
+
+      #stroke_1,
+      #stroke_2,
+      #stroke_3 {
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: rotate(180deg);
+        stroke-dasharray: 1.679378628730774;
+        stroke-dashoffset: 1.679378628730774;
+        animation: strokesIn 4s ease-in-out infinite;
+      }
+
+      @keyframes strokesIn {
+        0%,
+        50% {
+          stroke-dashoffset: 1.679378628730774;
+        }
+
+        60% {
+          stroke-dashoffset: 0;
+        }
+
+        60%,
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="parentDiv">
+      <div class="wrapper">
+        <svg
+          width="100%"
+          min-height="0"
+          viewBox="0 0 75 83"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <g id="benefits" clip-path="url(#clip0_1_6)">
+            <path
+              id="hexa"
+              d="M1.71343 21.62L1.20001 21.906V22.4937V60.019V60.5996L1.70423 60.8874L36.7042 80.8684L37.2 81.1515L37.6958 80.8684L72.6958 60.8874L73.2 60.5996V60.019V22.4937V21.906L72.6866 21.62L37.6866 2.12635L37.2 1.85535L36.7134 2.12635L1.71343 21.62Z"
+              fill="#FFFCFC"
+              stroke="#CF0A2C"
+              stroke-width="2"
+            />
+
+            <g id="center_1">
+              <path
+                id="Vector_2"
+                d="M52.4157 37.818L48.3512 31.1871C48.0366 30.6974 47.4992 30.3964 46.9174 30.3833H27.5562C27.0078 30.3836 26.4935 30.6512 26.1789 31.1005L21.5057 37.7725C21.2998 38.0651 21.1928 38.4156 21.2004 38.7734C21.2082 39.131 21.3297 39.4768 21.5479 39.7603L35.5825 58.0897C35.8994 58.5068 36.3935 58.7509 36.9174 58.7489C37.4409 58.7506 37.9351 58.5065 38.2521 58.0897L52.3142 39.7192C52.5201 39.449 52.6399 39.1233 52.658 38.784C52.6758 38.445 52.5918 38.1085 52.4157 37.818ZM51.3334 38.205H45.2757L47.6532 32.1994L51.3334 38.205ZM38.2689 31.5079H46.7204L44.2809 37.6626L38.2689 31.5079ZM43.2369 38.205H31.0357L36.9457 31.7637L43.2369 38.205ZM30.0458 37.6197L27.7825 31.5081H35.6535L30.0458 37.6197ZM43.62 39.3302L36.9325 56.2177L30.6794 39.3302H43.62ZM26.8193 32.1471L29.0638 38.2051L22.5775 38.2048L26.8193 32.1471ZM22.6356 39.3296H29.4799L35.8951 56.6477L22.6356 39.3296ZM38.0105 56.5545L44.8304 39.3296H51.1988L38.0105 56.5545Z"
+                fill="black"
+              />
+            </g>
+            <g id="stroke">
+              <path
+                id="stroke_1"
+                d="M30.7812 25.6893L31.9687 26.8768"
+                stroke="#CF0A2C"
+                stroke-linecap="round"
+              />
+              <path
+                id="stroke_2"
+                d="M36.9361 25.4434V27.1227"
+                stroke="#CF0A2C"
+                stroke-linecap="round"
+              />
+              <path
+                id="stroke_3"
+                d="M43.1304 25.6893L41.9429 26.8768"
+                stroke="#CF0A2C"
+                stroke-linecap="round"
+              />
+            </g>
+          </g>
+          <defs>
+            <clipPath id="clip0_1_6">
+              <rect
+                width="74"
+                height="83"
+                fill="white"
+                transform="translate(0.200012)"
+              />
+            </clipPath>
+          </defs>
+        </svg>
+      </div>
+    </div>
+
+    <script>
+      const introText = document.querySelectorAll("#stroke path");
+
+      for (let i = 0; i < introText.length; i++) {
+        console.log(`letter ${i} is ${introText[i].getTotalLength()}`);
+      }
+    </script>
+  </body>
+</html>
