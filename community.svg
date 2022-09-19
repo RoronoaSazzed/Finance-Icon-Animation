@@ -1,0 +1,207 @@
+<svg width="100%" min-height="0" viewBox="0 0 74 83" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <g id="community" clip-path="url(#clip0_1_12)">
+        <path id="hexa" d="M1.51342 21.62L1 21.906V22.4937V60.019V60.5996L1.50422 60.8874L36.5042 80.8684L37 81.1515L37.4958 80.8684L72.4958 60.8874L73 60.5996V60.019V22.4937V21.906L72.4866 21.62L37.4866 2.12635L37 1.85535L36.5134 2.12635L1.51342 21.62Z" fill="#FFFCFC" stroke="#CF0A2C" stroke-width="2" />
+
+        <g id="center_1">
+            <path id="Vector_2" d="M24.9577 45.3614C27.3164 45.3614 29.2351 43.4427 29.2351 41.084C29.2351 38.7253 27.3164 36.8066 24.9577 36.8066C22.599 36.8066 20.6807 38.7253 20.6807 41.084C20.6807 43.4424 22.599 45.3614 24.9577 45.3614ZM24.9577 37.7031C26.8216 37.7031 28.3383 39.2195 28.3383 41.0837C28.3383 42.9476 26.8219 44.4643 24.9577 44.4643C23.0942 44.4643 21.5777 42.9479 21.5777 41.0837C21.5774 39.2198 23.0935 37.7031 24.9577 37.7031Z" fill="black" />
+            <path id="Vector_3" d="M24.9577 47.0625C21.121 47.0625 18 50.1838 18 54.0199C18 55.1118 18.8883 55.9995 19.9802 55.9995H29.935C31.0269 55.9995 31.9152 55.1115 31.9152 54.0199C31.9149 50.1838 28.7936 47.0625 24.9575 47.0625H24.9577ZM29.935 55.1027H19.9803C19.3829 55.1027 18.8968 54.6172 18.8968 54.0199C18.8968 50.6777 21.6156 47.9587 24.9577 47.9587C28.2998 47.9587 31.0188 50.6774 31.0188 54.0199C31.0182 54.6173 30.5321 55.1027 29.935 55.1027Z" fill="black" />
+        </g>
+        <g id="center_2">
+            <path id="Vector_4" d="M38.1787 36.9489C40.5375 36.9489 42.4561 35.0306 42.4561 32.6719C42.4561 30.3135 40.5375 28.3945 38.1787 28.3945C35.82 28.3945 33.9014 30.3132 33.9014 32.6719C33.9014 35.0306 35.82 36.9489 38.1787 36.9489ZM38.1787 29.2916C40.0426 29.2916 41.5594 30.808 41.5594 32.6722C41.5594 34.5358 40.0429 36.0522 38.1787 36.0522C36.3149 36.0522 34.7981 34.5358 34.7981 32.6722C34.7981 30.808 36.3148 29.2916 38.1787 29.2916Z" fill="#CF0A2C" />
+            <path id="Vector_5" d="M45.1363 45.6085C45.1363 41.7719 42.0153 38.6509 38.1786 38.6509C34.342 38.6509 31.2209 41.7719 31.2209 45.6085C31.2209 46.7005 32.109 47.5888 33.2006 47.5888H43.1553C44.2476 47.5888 45.1359 46.7001 45.1359 45.6085H45.1363ZM43.1563 46.692H33.2008C32.6033 46.692 32.1179 46.206 32.1179 45.6085C32.1179 42.2671 34.8367 39.5477 38.1788 39.5477C41.5209 39.5477 44.2396 42.2664 44.2396 45.6085C44.2393 46.206 43.7536 46.692 43.1562 46.692H43.1563Z" fill="#CF0A2C" />
+        </g>
+        <g id="center_3">
+            <path id="Vector_6" d="M51.3997 45.3614C53.7584 45.3614 55.6767 43.4427 55.6767 41.084C55.6767 38.7253 53.7584 36.8066 51.3997 36.8066C49.041 36.8066 47.1223 38.7253 47.1223 41.084C47.1223 43.4424 49.0416 45.3614 51.3997 45.3614ZM51.3997 37.7031C53.2632 37.7031 54.7797 39.2195 54.7797 41.0837C54.7797 42.9476 53.2632 44.4643 51.3997 44.4643C49.5358 44.4643 48.0191 42.9479 48.0191 41.0837C48.0191 39.2198 49.5357 37.7031 51.3997 37.7031Z" fill="black" />
+            <path id="Vector_7" d="M51.3996 47.0625C47.563 47.0625 44.4417 50.1838 44.4417 54.0205C44.4417 55.1125 45.33 56.0001 46.4219 56.0001H56.3766C57.4686 56.0001 58.3568 55.1121 58.3568 54.0205C58.3571 50.1838 55.2361 47.0625 51.3995 47.0625H51.3996ZM56.377 55.1027H46.4223C45.8248 55.1027 45.3388 54.6169 45.3388 54.0198C45.3388 50.6777 48.0575 47.9587 51.4 47.9587C54.7418 47.9593 57.4606 50.6781 57.4606 54.0198C57.4606 54.6173 56.9745 55.1027 56.3771 55.1027H56.377Z" fill="black" />
+        </g>
+        <g id="stroke">
+            <path id="stroke_1" d="M25.2266 26.8672L27.6562 29.2813" stroke="black" stroke-linecap="round" />
+            <path id="stroke_2" d="M31.1774 22.8891L32.4777 26.0577" stroke="#CF0A2C" stroke-linecap="round" />
+            <path id="stroke_3" d="M38.1785 24.9288L38.1675 21.5038" stroke="black" stroke-linecap="round" />
+            <path id="stroke_4" d="M45.1808 22.8891L43.8804 26.0577" stroke="#CF0A2C" stroke-linecap="round" />
+            <path id="stroke_5" d="M51.1305 26.8672L48.7008 29.2813" stroke="black" stroke-linecap="round" />
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_1_12">
+            <rect width="74" height="83" fill="white" />
+        </clipPath>
+        <style>
+
+      #hexa {
+        stroke-dasharray: 242.70816040039062;
+        stroke-dashoffset: 242.70816040039062;
+        fill: transparent;
+        animation: hexaIn 4s ease-in-out infinite;
+      }
+
+      @keyframes hexaIn {
+        0% {
+          stroke-dashoffset: 242.70816040039062;
+        }
+
+        25% {
+          stroke-dashoffset: 0;
+          fill: #fffcfc;
+        }
+
+        25%,
+        100% {
+          stroke-dashoffset: 0;
+          fill: #fffcfc;
+        }
+      }
+
+      #center_1,
+      #center_2,
+      #center_3 {
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: scale(0);
+        opacity: 0;
+        animation: centerIn1 4s ease-in-out infinite;
+      }
+
+      @keyframes centerIn1 {
+        0%,
+        25% {
+          transform: scale(0.5);
+          opacity: 0;
+        }
+        50% {
+          transform: scale(1);
+          opacity: 1;
+        }
+
+        50%,
+        100% {
+          transform: scale(1);
+          opacity: 1;
+        }
+      }
+
+      #stroke_1 {
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: rotate(180deg);
+        stroke-dasharray: 3.4250295162200928;
+        stroke-dashoffset: 3.4250295162200928;
+        animation: strokesIn1 4s ease-in-out infinite;
+      }
+
+      @keyframes strokesIn1 {
+        0%,
+        50% {
+          stroke-dashoffset: 3.4250295162200928;
+        }
+
+        60% {
+          stroke-dashoffset: 0;
+        }
+
+        60%,
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+
+      #stroke_2 {
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: rotate(180deg);
+        stroke-dasharray: 3.4250259399414062;
+        stroke-dashoffset: 3.4250259399414062;
+        animation: strokesIn2 4s ease-in-out infinite;
+      }
+
+      @keyframes strokesIn2 {
+        0%,
+        50% {
+          stroke-dashoffset: 3.4250259399414062;
+        }
+
+        60% {
+          stroke-dashoffset: 0;
+        }
+
+        60%,
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+
+      #stroke_3 {
+        stroke-dasharray: 3.425018787384033;
+        stroke-dashoffset: 3.425018787384033;
+        animation: strokesIn3 4s ease-in-out infinite;
+      }
+
+      @keyframes strokesIn3 {
+        0%,
+        50% {
+          stroke-dashoffset: 3.425018787384033;
+        }
+
+        60% {
+          stroke-dashoffset: 0;
+        }
+
+        60%,
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+
+      #stroke_4 {
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: rotate(180deg);
+        stroke-dasharray: 3.4250643253326416;
+        stroke-dashoffset: 3.4250643253326416;
+        animation: strokesIn4 4s ease-in-out infinite;
+      }
+
+      @keyframes strokesIn4 {
+        0%,
+        50% {
+          stroke-dashoffset: 3.4250643253326416;
+        }
+
+        60% {
+          stroke-dashoffset: 0;
+        }
+
+        60%,
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+
+      #stroke_5 {
+        transform-box: fill-box;
+        transform-origin: center;
+        transform: rotate(180deg);
+        stroke-dasharray: 3.425018787384033;
+        stroke-dashoffset: 3.425018787384033;
+        animation: strokesIn5 4s ease-in-out infinite;
+      }
+
+      @keyframes strokesIn5 {
+        0%,
+        50% {
+          stroke-dashoffset: 3.425018787384033;
+        }
+
+        60% {
+          stroke-dashoffset: 0;
+        }
+
+        60%,
+        100% {
+          stroke-dashoffset: 0;
+        }
+      }
+        </style>
+    </defs>
+</svg>
